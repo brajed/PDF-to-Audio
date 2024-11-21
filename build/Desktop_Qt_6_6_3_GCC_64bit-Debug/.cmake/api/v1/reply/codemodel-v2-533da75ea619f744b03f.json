@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e0fbfa32d5ac5685d545.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PDF_to_Audio",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PDF_to_Audio::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PDF_to_Audio-Debug-84c80b2ab315a1fdaaa8.json",
+					"name" : "PDF_to_Audio",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PDF_to_Audio_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PDF_to_Audio_autogen-Debug-c2a67c6b2ccd345c143d.json",
+					"name" : "PDF_to_Audio_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PDF_to_Audio_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PDF_to_Audio_autogen_timestamp_deps-Debug-4a1027df78b96da6621c.json",
+					"name" : "PDF_to_Audio_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/bra/Documents/QtProjects/PDF_to_Audio/build/Desktop_Qt_6_6_3_GCC_64bit-Debug",
+		"source" : "/home/bra/Documents/QtProjects/PDF_to_Audio"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

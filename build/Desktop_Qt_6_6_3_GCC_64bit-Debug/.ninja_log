@@ -1,0 +1,24 @@
+# ninja log v5
+3497	3903	1732047306695682653	PDF_to_Audio	e15fb99e0d79e01a
+329	3496	1732047306291625880	CMakeFiles/PDF_to_Audio.dir/mainwindow.cpp.o	4e4146b58e95d585
+329	2979	1732047305775553299	CMakeFiles/PDF_to_Audio.dir/main.cpp.o	b95447fb6b94b204
+329	2503	1732047305299486267	CMakeFiles/PDF_to_Audio.dir/PDF_to_Audio_autogen/mocs_compilation.cpp.o	812cc78ef361121d
+0	327	1732047303119178444	/home/bra/Documents/QtProjects/PDF_to_Audio/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/PDF_to_Audio_autogen/mocs_compilation.cpp	79e23d5b3168ec9f
+0	327	1732047303119178444	PDF_to_Audio_autogen/mocs_compilation.cpp	79e23d5b3168ec9f
+0	327	1732047303119178444	/home/bra/Documents/QtProjects/PDF_to_Audio/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/PDF_to_Audio_autogen/timestamp	79e23d5b3168ec9f
+0	327	1732047303119178444	PDF_to_Audio_autogen/timestamp	79e23d5b3168ec9f
+2	343	1732050004736133068	PDF_to_Audio_autogen/timestamp	79e23d5b3168ec9f
+2	343	1732050004736133068	PDF_to_Audio_autogen/mocs_compilation.cpp	79e23d5b3168ec9f
+2	343	1732050004736133068	/home/bra/Documents/QtProjects/PDF_to_Audio/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/PDF_to_Audio_autogen/timestamp	79e23d5b3168ec9f
+2	343	1732050004736133068	/home/bra/Documents/QtProjects/PDF_to_Audio/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/PDF_to_Audio_autogen/mocs_compilation.cpp	79e23d5b3168ec9f
+344	3503	1732050007900191428	CMakeFiles/PDF_to_Audio.dir/mainwindow.cpp.o	b2bcbcd75d812c78
+343	4120	1732050008516202743	CMakeFiles/PDF_to_Audio.dir/PDF_to_Audio_autogen/mocs_compilation.cpp.o	b903cc784833e5c9
+344	4853	1732050009120213829	CMakeFiles/PDF_to_Audio.dir/main.cpp.o	729e16aab9346770
+4853	5424	1732050009816226581	PDF_to_Audio	309c8fe8e785acf8
+2	27	1732050232659486667	PDF_to_Audio_autogen/timestamp	79e23d5b3168ec9f
+2	27	1732050232659486667	PDF_to_Audio_autogen/mocs_compilation.cpp	79e23d5b3168ec9f
+2	27	1732050232659486667	/home/bra/Documents/QtProjects/PDF_to_Audio/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/PDF_to_Audio_autogen/timestamp	79e23d5b3168ec9f
+2	27	1732050232659486667	/home/bra/Documents/QtProjects/PDF_to_Audio/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/PDF_to_Audio_autogen/mocs_compilation.cpp	79e23d5b3168ec9f
+29	2336	1732050235327517116	CMakeFiles/PDF_to_Audio.dir/mainwindow.cpp.o	b2bcbcd75d812c78
+28	3034	1732050236027525078	CMakeFiles/PDF_to_Audio.dir/main.cpp.o	729e16aab9346770
+3034	3465	1732050236455529937	PDF_to_Audio	309c8fe8e785acf8

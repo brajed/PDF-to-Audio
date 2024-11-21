@@ -1,0 +1,9 @@
+/home/bra/Documents/QtProjects/PDF_to_Audio/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/CMakeFiles/PDF_to_Audio.dir
+/home/bra/Documents/QtProjects/PDF_to_Audio/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/bra/Documents/QtProjects/PDF_to_Audio/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/bra/Documents/QtProjects/PDF_to_Audio/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/bra/Documents/QtProjects/PDF_to_Audio/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/bra/Documents/QtProjects/PDF_to_Audio/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/bra/Documents/QtProjects/PDF_to_Audio/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/bra/Documents/QtProjects/PDF_to_Audio/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/CMakeFiles/PDF_to_Audio_autogen_timestamp_deps.dir
+/home/bra/Documents/QtProjects/PDF_to_Audio/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/CMakeFiles/PDF_to_Audio_autogen.dir
